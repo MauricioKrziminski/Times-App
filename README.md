@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é um aplicativo para escolha de Equipes e Grupos onde foi criado durante meu período de estudos na plataforma Rocketseat, visando aprender mais afundo sobre React Native.
+Este projeto é um aplicativo simples para escolha de Equipes e Grupos onde foi criado durante meu período de estudos na plataforma Rocketseat, visando aprender mais afundo sobre React Native.
 
 ##
 
